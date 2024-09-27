@@ -10,3 +10,6 @@ pip install ViTables[PyQt5]
 ```
 vitables /path/to/xxx.h5 (文件路径)
 ```
+
+# AI
+Deepseek: 便宜且代码生成能力较强, [link](https://chat.deepseek.com/coder)
